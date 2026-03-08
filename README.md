@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gautam Garg
-**A passionate Full Stack Engineer || Competitive Programmer
+**A passionate Full Stack Engineer || Competitive Programmer**
 
 Email Me 👉 ✉️ **gautam12personal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
