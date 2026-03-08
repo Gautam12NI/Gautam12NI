@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Gautam Garg
 **A passionate Full Stack Engineer || Competitive Programmer
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **gautam12personal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Liar-Liar A Chrome Security Extension
 - 🌱 **I’m currently learning:** DevOps
